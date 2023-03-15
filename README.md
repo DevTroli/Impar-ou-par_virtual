@@ -7,16 +7,16 @@
 Ei, você aí! meu caro leitor, Seja muito bem-vindo a esta maravilhosa réplica virtual do jogo mais emocionante e eletrizante de todos os tempos: o ímpar ou par... alguns diriam que esse é um classico, Mas calma lá, não se engane pensando que esse código é apenas um simples jogo de somar números. Ah, não! Ele é muito mais do que isso. vejamos mais a seguir.
 
 ## Objetivo
-O objetivo deste jogo é testar a maquina em sua capacidade de prever se o resultado da soma de dois números é par ou ímpar. Se você conseguir acertar, parabéns! Você é o proximo jeff bezos! Se não, não se preocupe, a vida nem sempre é justa, mas pelo menos você tentou e pode tentar novamente, até alcançar oq quer na vida.
+O objetivo deste jogo é testar a maquina em sua capacidade de prever se o resultado da soma de dois números é par ou ímpar. Se você conseguir acertar, parabéns! Se não, você tentou e pode tentar novamente.
 
 
 ## Como eu fiz isso (com minhas palavras)
 
 Primeiro, importei a biblioteca random para que eu possa ter um adversário um pouco imprevisível, ta ligado? Porque ai, vamos dar match, e quem gosta de jogar contra um oponente previsível? E claro, como uma simulação virtual, eu tenho web-etiquetas, então eduquei o usuário a escolher educadamente entre par ou ímpar. fino não é mesmo?
 
-Aí, pedi gentilmente que o usuário escolhesse um número entre 1 e 100. Será que você escolheria um número sortudo? Hmm, quem sabe. só saber se você entrar na IDE favorita e testar, ai você pode comentar se ganhou ou não. enfim... Eu escolhi um número aleatoriamente e, digitei na area de entrada de informação. Depois, foi só somar e tcharan! Temos um resultado.
+Aí, pedi gentilmente que o usuário escolhesse um número entre 1 e 100. Será que você escolheria um número sortudo? Hmm, quem sabe. Só saberemos se você entrar na sua IDE favorita e testar, ai você pode comentar se ganhou ou não. enfim... Eu escolhi um número aleatoriamente e, digitei na area de entrada de informação. Depois, foi só somar e tcharan! Temos um resultado.
 
-Se a soma foi par, a maquina diz "deu par". E aí, será que você escolheu par? Se sim, parabéns, você ganhou! Se não, bem, a vida nem sempre é justa, mas você pode tentar novamente, certo? Agora, se a soma foi ímpar, eu escolhi impar. Será que deu bom e resultou em impar? Se sim, você é um gênio! Parabéns! Se não, tudo bem, você pode tentar novamente.
+Se a soma foi par, a maquina diz "deu par". E aí, será que você escolheu par? Se sim, parabéns, você ganhou! Se não, bem, a vida nem sempre é justa, mas você pode tentar novamente, certo? Agora, e vice e versa... se a soma foi ímpar, e você escolheu impar então você ganhou se não você perdeu para minha programação.
 
 ## Requisitos
 
